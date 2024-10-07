@@ -15,4 +15,4 @@ I am a young person who is extremely curious about technology. This is evident i
 <!-- ## 🛠️Tech Stack-->
 
 ## 🤝 Contact me
-[![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brian.freitas.santosl@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brian.freitas.santos@gmail.com)
