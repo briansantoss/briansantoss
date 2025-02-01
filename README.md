@@ -4,17 +4,27 @@
 
 ## 🙋‍♂️ About Me
 I am a young person who is extremely curious about technology. This is evident in the fact that I am always seeking new knowledge and skills of any kind that can help me find increasingly simple, sophisticated solutions, always with a good dose of creativity. It is a challenging task, but the effort is always worthwhile. At the same time that I am deeply passionate about this world, I also consider myself new to it, which means I still have many lessons to learn, please feel free to share your knowledge with me, I would love it. I am currently pursuing a Bachelor's degree in Computer.
-
-<!--## 🛠️Tech Stack
-
-### Web Delevopment
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<!--
+## 🛠️ Tech Stack
+### Front-end development
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
+## Back-end development
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Dotnet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Python-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.python.org/)
+
+### Assist tools
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![LazyVim](https://img.shields.io/badge/LazyVim-2E7DE9?style=for-the-badge&logo=lazyvim&logoColor=white)
+
 -->
+
 ### 👀 Did You Know?
 - 🌎 Living in **Curitiba, Brazil**
 - 🤓 I am actually learning **C#** and **Python**
