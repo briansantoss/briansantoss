@@ -12,9 +12,9 @@ I am a young person who is extremely curious about technology. This is evident i
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
-## Back-end development
+### Back-end development
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Dotnet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
@@ -25,15 +25,12 @@ I am a young person who is extremely curious about technology. This is evident i
 ![NeoVim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![LazyVim](https://img.shields.io/badge/LazyVim-2E7DE9?style=for-the-badge&logo=lazyvim&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-
+---
 ### 👀 Did You Know?
 - 🌎 Living in **Curitiba, Brazil**
 - 🤓 I am actually learning **C#** and **Python**
 - 🧐 Math is one of the subjects I love **most**
 - 🕺 I have interest in music and dance too
 
-
-
 ## 🤝 Contact me
 [![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brian.freitas.santos@gmail.com)
-
