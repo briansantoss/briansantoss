@@ -1,6 +1,16 @@
+<!--
+<p align="center">
+  <a href="https://github.com/briansantoss/briansantoss/edit/main/README.pt-br.md">pt-br</a>
+</p>
+-->
+
 # 👋 Hello, World! I’m Brian Santos
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=800&color=41FF25DF&background=FFFFFF00&center=true&vCenter=true&width=900&height=100&lines=Easily+turn+thougths+into+code%3F;Smile!+;%F0%9F%98%81;You+learn+to+code+properly;-+By+myself)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=800&color=41FF25DF&background=FFFFFF00&center=true&vCenter=true&width=900&height=100&lines=Easily+turn+thoughts+into+code%3F;Smile!+;%F0%9F%98%81;You+learn+to+do+it+the+right+way;-+By+myself"/>
+  </a>
+</p>
 
 ## 🙋‍♂️ About Me
 I am a young person who is extremely curious about technology. This is evident in the fact that I am always seeking new knowledge and skills of any kind that can help me find increasingly simple, sophisticated solutions, always with a good dose of creativity. It is a challenging task, but the effort is always worthwhile. At the same time that I am deeply passionate about this world, I also consider myself new to it, which means I still have many lessons to learn, please feel free to share your knowledge with me, I would love it. I am currently pursuing a Bachelor's degree in Computer.
@@ -26,6 +36,7 @@ I am a young person who is extremely curious about technology. This is evident i
 ![LazyVim](https://img.shields.io/badge/LazyVim-2E7DE9?style=for-the-badge&logo=lazyvim&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ---
+
 ### 👀 Did You Know?
 - 🌎 Living in **Curitiba, Brazil**
 - 🤓 I am actually learning **C#** and **Python**
@@ -34,3 +45,4 @@ I am a young person who is extremely curious about technology. This is evident i
 
 ## 🤝 Contact me
 [![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brian.freitas.santos@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-santos-333836280/)
