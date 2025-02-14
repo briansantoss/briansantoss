@@ -1,6 +1,10 @@
 # 👋 Olá, mundo! Sou Brian Santos!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=800&color=41FF25DF&background=FFFFFF00&center=true&vCenter=true&width=900&height=100&lines=Transforma+facilmente+pensamentos+em+c%C3%B3digo%3F;Sorria!+;%F0%9F%98%81;Voc%C3%AA+aprendeu+a+programar+com+propriedade;-+De+minha+autoria)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=800&color=41FF25DF&background=FFFFFF00&center=true&vCenter=true&width=900&height=100&lines=Transforma+facilmente+pensamentos+em+c%C3%B3digo%3F;Sorria!+;%F0%9F%98%81;Voc%C3%AA+aprendeu+a+programar+com+propriedade;-+De+minha+autoria"/>
+  </a>
+</p>
 
 ## 🙋‍♂️ Sobre mim
 Sou um jovem estudante extremamente curioso sobre tecnologia. Esse fato é notório dada minha característica de sempre estar procurando por novos conhecimentos e habilidades das mais variadas, me capacitando cada vez mais na sutil arte de encontrar mais simples e sofisticadas soluções, nunca abrindo mão de uma boa dose de creatividade.
@@ -20,7 +24,7 @@ Na mesma medida na qual sou profundamente apaixonado pelo mundo da tecnologia, t
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Dotnet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### Ferramentas Auxiliares
+### Ferramentas auxiliares
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -28,6 +32,7 @@ Na mesma medida na qual sou profundamente apaixonado pelo mundo da tecnologia, t
 ![LazyVim](https://img.shields.io/badge/LazyVim-2E7DE9?style=for-the-badge&logo=lazyvim&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ---
+
 ### 👀 Você sabia disso?
 - 🌎 Vivendo em **Curitiba, Brasil**
 - 🤓 No momento estou aprendendo **C#** e **Python**
@@ -36,3 +41,4 @@ Na mesma medida na qual sou profundamente apaixonado pelo mundo da tecnologia, t
 
 ## 🤝 Entre em contato
 [![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brian.freitas.santos@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-santos-333836280/)
