@@ -1,9 +1,3 @@
-<!--
-<p align="center">
-  <a href="https://github.com/briansantoss/briansantoss/edit/main/README.pt-br.md">pt-br</a>
-</p>
--->
-
 # 👋 Hello, World! I’m Brian Santos
 
 <p align="center">
@@ -12,23 +6,37 @@
   </a>
 </p>
 
+<p align="center">
+  <h2>🤝 Contact Me</h2>
+</p>
+
+<p align="center">
+  <a href="mailto:brian.freitas.santos@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/brian-santos-333836280/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
 ## 🙋‍♂️ About Me
 I am a young person who is extremely curious about technology. This is evident in the fact that I am always seeking new knowledge and skills of any kind that can help me find increasingly simple, sophisticated solutions, always with a good dose of creativity. It is a challenging task, but the effort is always worthwhile. At the same time that I am deeply passionate about this world, I also consider myself new to it, which means I still have many lessons to learn, please feel free to share your knowledge with me, I would love it. I am currently pursuing a Bachelor's degree in Computer.
 
 ## 🛠️ Tech Stack
-### Front-end development
+### Front-end Development
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
-### Back-end development
+### Back-end Development
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Dotnet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### Assist tools
+### Assist Tools
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -43,6 +51,6 @@ I am a young person who is extremely curious about technology. This is evident i
 - 🧐 Math is one of the subjects I love **most**
 - 🕺 I have interest in music and dance too
 
-## 🤝 Contact me
-[![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brian.freitas.santos@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-santos-333836280/)
+## Profile Statistics
+![briansantoss's Stats](https://github-readme-stats.vercel.app/api?username=briansantoss&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
+![briansantoss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=briansantoss&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
