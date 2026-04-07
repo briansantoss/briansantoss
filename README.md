@@ -54,7 +54,3 @@ Still early in my journey, I am constantly learning and looking for opportunitie
 - 🤓 I am actually learning **C#** and **Python**
 - 🧐 Math is one of the subjects I love **most**
 - 🕺 I have interest in music and dance too
-
-## Profile Statistics
-![briansantoss's Stats](https://github-readme-stats.vercel.app/api?username=briansantoss&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
-![briansantoss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=briansantoss&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
