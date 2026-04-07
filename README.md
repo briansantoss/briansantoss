@@ -20,7 +20,11 @@
 </p>
 
 ## 🙋‍♂️ About Me
-I am a young person who is extremely curious about technology. This is evident in the fact that I am always seeking new knowledge and skills of any kind that can help me find increasingly simple, sophisticated solutions, always with a good dose of creativity. It is a challenging task, but the effort is always worthwhile. At the same time that I am deeply passionate about this world, I also consider myself new to it, which means I still have many lessons to learn, please feel free to share your knowledge with me, I would love it. I am currently pursuing a Bachelor's degree in Computer.
+Computer Science undergraduate passionate about technology and always curious about how systems work. I enjoy learning new tools and concepts to build simple, efficient, and creative solutions.
+
+I am particularly interested in DevOps and Full Stack development, exploring Linux environments, containerization with Docker, CI/CD workflows, and automation. I also have solid programming fundamentals, with a strong foundation in C and experience using Python for scripting and problem-solving.
+
+Still early in my journey, I am constantly learning and looking for opportunities to grow, collaborate, and contribute to real-world projects.
 
 ## 🛠️ Tech Stack
 ### Front-end Development
