@@ -51,6 +51,6 @@ Still early in my journey, I am constantly learning and looking for opportunitie
 
 ### 👀 Did You Know?
 - 🌎 Living in **Curitiba, Brazil**
-- 🤓 I am actually learning **C#** and **Python**
+- 🤓 I am actually learning **GitHub Actions** and **Docker*
 - 🧐 Math is one of the subjects I love **most**
-- 🕺 I have interest in music and dance too
+- 🕺 I interested in music and dance too
